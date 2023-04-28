@@ -9,5 +9,3 @@ Repositorio de los entregables de los proyectos de la asignatura Aprendizaje Aut
 3. `python -m ipykernel install --user --name=myenv`
 4. Seleccionar entorno kernel "myenv" dentro de Jupyter Notebooks
 
-Testing
-
